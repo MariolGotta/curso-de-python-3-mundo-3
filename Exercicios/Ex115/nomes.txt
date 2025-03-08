@@ -1,0 +1,7 @@
+Maria;68
+Marcos;38
+Lucas;29
+Pedro;12
+Mario;25
+Lucas;39
+Alziro;36
